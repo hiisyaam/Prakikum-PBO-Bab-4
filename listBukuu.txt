@@ -1,0 +1,2 @@
+100000;Bumi;Tere Liye;Fiksi;merupakan rangkaian awal dari kisah sekelompok anak remaja berkemampuan istimewa
+150000;Menjadi Master PHP;Wardana;Teknologi;Teori terkait bahasa pemrograman PHP bagi pemula maupun lanjut
